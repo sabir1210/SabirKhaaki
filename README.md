@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)
+
 <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
@@ -20,7 +20,7 @@
 
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir1210&show_icons=true&locale=en&layout=compact" alt="sabbir1210" /></p>
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="sabir1210" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)</p>
  
 </span>
 
