@@ -8,7 +8,7 @@
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @sabir1210</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in Full Stack developer (Laravel ,Bootstrap ,React Js etc)</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning laravel , Reactjs , Bootstrap</li>
-<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on js or laravel 8 projects</li>
+<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on Dot Net & Bootstrap, Html, Css & Jquery Projects</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me on linkedIn <a href="https://www.linkedin.com/in/sabir-hussain-a889aa137/" rel="nofollow">Sabir Hussain</a></li>
 </ul>
 
@@ -20,6 +20,5 @@
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir1210&show_icons=true&locale=en&layout=compact" alt="sabbir1210" /></p>
 <p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="sabir1210" /></p>
-  
-https://github.com/sabir1210
+ 
 </span>
