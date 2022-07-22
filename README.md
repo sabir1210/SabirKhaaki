@@ -5,7 +5,7 @@
         <a href="/sabir1210/SabirKhaaki" class="no-underline Link--primary">sabir1210</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
-   
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @sabir1210</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in Full Stack developer (Dot Net & Bootstrap)</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently working with Dot Net & Bootstrap</li>
@@ -21,5 +21,4 @@
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir1210&show_icons=true&locale=en&layout=compact" alt="sabbir1210" /></p>
 </span>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)
 
