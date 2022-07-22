@@ -20,7 +20,6 @@
 
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabir1210&show_icons=true&locale=en&layout=compact" alt="sabbir1210" /></p>
-<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)</p>
- 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)
 </span>
 
