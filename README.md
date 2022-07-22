@@ -15,7 +15,7 @@
 
   </div>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sabir1210&label=Profile%&views&color=129e00&style=plastic" alt="sabir1210" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=sabir1210&label=Profile%20views&color=129e00&style=plastic" alt="sabir1210" /> </p>
 <hr/>
 
 <span>
