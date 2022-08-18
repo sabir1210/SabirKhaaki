@@ -6,7 +6,6 @@
       </div>
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)](https://git.io/streak-stats)
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabir1210)]
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @sabir1210</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in Full Stack developer (Dot Net & Bootstrap)</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently working with Dot Net & Bootstrap</li>
