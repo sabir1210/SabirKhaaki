@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabirkhaaki" target="blank"><img src="https://img.shields.io/twitter/follow/sabirkhaaki?logo=twitter&style=for-the-badge" alt="sabirkhaaki" /></a> </p>
 
-- 🔭 I’m currently working on **Ez-Crm**
+- 🔭 I’m currently working on **Food Deliver App**
 
 - 🌱 I’m currently learning **React.Js**
 
